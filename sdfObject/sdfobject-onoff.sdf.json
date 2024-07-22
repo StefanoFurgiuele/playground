@@ -16,9 +16,8 @@
         "#/sdfObject/OnOff/sdfProperty/OnOff", 
         "#/sdfObject/OnOff/sdfAction/On",
         "#/sdfObject/OnOff/sdfAction/Off",
-        "#/sdfObject/OnOff/sdfAction/Toggle",
         "#/sdfObject/OnOff/sdfAction/Toggles"
-      ]
+      ],
       "sdfProperty": {
         "OnOff": {
           "label": "OnOff", 
@@ -52,7 +51,7 @@
         "On": {
           "label": "On"
         }, 
-        "Toggle": {
+        "Toggles": {
           "label": "Toggle"
         }, 
         "OffWithEffect": {
