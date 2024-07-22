@@ -21,7 +21,6 @@
       "sdfProperty": {
         "OnOff": {
           "label": "OnOff", 
-          "type": "boolean",
           "default": false
         }, 
         "GlobalSceneControl": {
