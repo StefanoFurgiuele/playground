@@ -6,7 +6,7 @@
     "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE"
   }, 
   "namespace": {
-    "gw": "https://example.com/gewiss"
+    "gw": "https://example.com/gewiss/"
   }, 
   "defaultNamespace": "gw", 
   "sdfObject": {
