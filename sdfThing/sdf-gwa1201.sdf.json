@@ -1,0 +1,24 @@
+
+{
+    "info": {
+        "copyright": "Copyright 2024",
+        "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE",
+        "title": "Gewiss GWA1201",
+        "version": "2024-07-22"
+    },
+    "namespace": {
+        "pg": "https://onedm.org/playground/#",
+        "gw": "https://example.com/gewiss/"
+    },
+    "defaultNamespace": "gw", 
+
+    "sdfThing": {
+        "GWA1201": {
+            "sdfObject": {
+                "OnOff": {
+                    "sdfRef": "pg:/#/sdfObject/On_Off_switch" 
+                }       
+            }
+        }
+    }
+}
