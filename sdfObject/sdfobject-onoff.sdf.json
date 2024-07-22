@@ -42,7 +42,8 @@
         "StartUpOnOff": {
           "sdfRef": "#/sdfObject/OnOff/sdfData/StartUpOnOffMode", 
           "label": "StartUpOnOff"
-        }
+        },
+        "sdfRef": "gw:#/sdfObject/GWObj/sdfProperty/GWProp"
       }, 
       "sdfAction": {
         "Off": {
