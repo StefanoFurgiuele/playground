@@ -2,7 +2,7 @@
   "info": {
     "title": "Example SDF model for the ZCL OnOff cluster", 
     "version": "2021-03-05", 
-    "copyright": "Copyright (c) 2019-2021, TEST_TEST All rights reserved.", 
+    "copyright": "Copyright (c) 2019-2021, Zigbee Alliance All rights reserved.", 
     "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE"
   }, 
   "namespace": {
@@ -16,8 +16,7 @@
         "#/sdfObject/OnOff/sdfProperty/OnOff", 
         "#/sdfObject/OnOff/sdfAction/On",
         "#/sdfObject/OnOff/sdfAction/Off",
-        "#/sdfObject/OnOff/sdfAction/Toggle",
-        "#/sdfObject/OnOff/sdfAction/Toggles"
+        "#/sdfObject/OnOff/sdfAction/Toggle"
       ],
       "sdfProperty": {
         "OnOff": {

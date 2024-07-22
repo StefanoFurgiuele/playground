@@ -68,7 +68,7 @@ ARGV.each do |fn|
     end
     if f
       f += 1
-      pl[f] = ">>#{pl[f]}<<"
+      pl[f] = "ERROR: >>#{pl[f]}<<"
       bad << pl.join("/")
     end
   }
