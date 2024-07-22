@@ -118,7 +118,9 @@
             "SetPreviousOnOff": {}
           }
         }
-      },
+      }
+    },
+    "NewObj": {
       "sdfRef": "gw:#/sdfObject/GWObj"
     }
   }
