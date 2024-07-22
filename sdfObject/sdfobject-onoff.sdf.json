@@ -121,7 +121,17 @@
       }
     },
     "NewObj": {
-      "sdfRef": "gw:#/sdfObject/GWObj"
+      "sdfRef": "#/sdfObject/GWObj"
+    },
+    "GWObj": {
+      "label": "GWObj",
+      "sdfProperty": {
+        "GWProp": {
+          "label": "GWProp", 
+          "type": "boolean",
+          "default": false
+        }
+      }
     }
   }
 }
