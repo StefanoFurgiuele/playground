@@ -121,7 +121,7 @@
       }
     },
     "NewObj": {
-      "sdfRef": "bob:#/sdfObject/GWObj"
+      "sdfRef": "gw:#/sdfObject/GWObj"
     }
   }
 }
