@@ -48,7 +48,7 @@ case $# in
     0)
         git clone --depth 1 http://github.com/one-data-model/tools
         (cd tools/sdflint; npm install)
-        find . -name \*onoff.sdf.json -exec ./run.sh \{\} \;
+        find . -name \*rtu.sdf.json -exec ./run.sh \{\} \;
         echo '---'
         ruby pointercheck.rb
         ;;
