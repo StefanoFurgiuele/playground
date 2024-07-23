@@ -16,7 +16,7 @@
         "GWA1201": {
             "sdfObject": {
                 "OnOff": {
-                    "sdfRef": "pg://sdfObject/On_Off_switch" 
+                    "sdfRef": "pg://sdfObject/OnOff" 
                 }       
             }
         }
