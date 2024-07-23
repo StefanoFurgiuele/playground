@@ -6,8 +6,7 @@
     "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE"
   }, 
   "namespace": {
-    "pg": "https://onedm.org/playground/#",
-    "gw": "https://example.com/gewiss/"
+    "pg": "https://onedm.org/playground/"
   }, 
   "defaultNamespace": "pg", 
   "sdfObject": {
