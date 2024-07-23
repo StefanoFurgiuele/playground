@@ -7,7 +7,11 @@
         "version": "2024-07-22"
     },
     "namespace": {
+<<<<<<< HEAD
         "pg": "https://onedm.org/playground/#",
+=======
+        "pg": "https://onedm.org/playground/",
+>>>>>>> e0e99340f85116bbf2f84217d4855331e335f30c
         "gw": "https://example.com/gewiss/"
     },
     "defaultNamespace": "gw", 
