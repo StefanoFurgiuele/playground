@@ -7,7 +7,7 @@
         "version": "2024-07-22"
     },
     "namespace": {
-        "pg": "https://onedm.org/playground",
+        "pg": "https://onedm.org/playground/",
         "gw": "https://example.com/gewiss/"
     },
     "defaultNamespace": "gw", 
@@ -16,7 +16,7 @@
         "GWA1201": {
             "sdfObject": {
                 "OnOff": {
-                    "sdfRef": "pg:#/sdfObject/OnOffs" 
+                    "sdfRef": "pg:#/sdfObject/OnOff" 
                 }       
             }
         }
