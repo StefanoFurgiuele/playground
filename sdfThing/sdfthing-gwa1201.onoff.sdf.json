@@ -8,7 +8,7 @@
     },
     "namespace": {
         "pg": "https://onedm.org/playground/#",
-        "gw": "https://example.com/gewiss/"
+        "gw": "https://example.com/gewiss/#"
     },
     "defaultNamespace": "gw", 
 
@@ -16,7 +16,7 @@
         "GWA1201": {
             "sdfObject": {
                 "OnOff": {
-                    "sdfRef": "pg:/#/sdfObject/On_Off_switch" 
+                    "sdfRef": "pg://sdfObject/On_Off_switch" 
                 }       
             }
         }
