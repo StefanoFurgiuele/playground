@@ -6,7 +6,7 @@
     "license": "https://github.com/one-data-model/oneDM/blob/master/LICENSE"
   }, 
   "namespace": {
-    "pg": "https://onedm.org/playground/#"
+    "pg": "https://onedm.org/playground"
   }, 
   "defaultNamespace": "pg", 
   "sdfObject": {
